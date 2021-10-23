@@ -300,3 +300,6 @@ https://github.com/GerbenJavado/LinkFinder
 https://github.com/tomnomnom/unfurl
 `cat urls.txt | unfurl -u keys`
 `cat urls.txt | unfurl -u values`
+
+# Mindmap
+![[mindmapv2.png]]
